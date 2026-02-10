@@ -18,7 +18,7 @@ The course consists of **two selected modules of a larger e-learning course** ca
 
 ### Location & time
 
-* Hybrid meetings: INF 348 / R13 or heiCONF (link is provided on heiCO)
+* Hybrid meetings: INF 348 / R13 or heiCONF (link is provided on [heiCO](https://heico.uni-heidelberg.de/heiCO/ee/rest/pages/slc.tm.cp/course/409573))
 
 * 14:15h - end of Q&A and discussions
 
